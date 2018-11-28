@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello 济南 , this is a new growth porcess ！");
+        System.out.println("Hello 济南 , this is a new growth process ！");
         LocalDateTime localDateTime = LocalDateTime.now();
         System.out.println(localDateTime);
     }
